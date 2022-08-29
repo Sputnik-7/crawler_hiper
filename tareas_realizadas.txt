@@ -1,0 +1,12 @@
+miercoles 24/08/2022 entre 15:00 a 16:00 - analisis de sitio Web (hiperlibertad).
+		     entre 16:30 a 17:30 - diseño del programa.
+
+
+Jueves 25/08/2022    entre 16:00 a 18:00 - programacion - pruebas.
+
+Viernes 26/08/2022   entre 15:00 a 18:00 - problemas al obtener los datos con las primeras estrategias pensadas - Buscar alternativas de solucion. 
+					   Segun informacion obtenida de internet, lo mas conveniente es (Analizar interaccion con el servidor).
+
+Sabado 27/08/2022    entre 15:00 a 19:00 - programacion - pruebas. Comentar codigo. Reorganizar codigo.
+
+Domingo 28/08/2022   entre 15:00 a 21:00 - programacion - pruebas. Comentar codigo. Reorganizar codigo.
