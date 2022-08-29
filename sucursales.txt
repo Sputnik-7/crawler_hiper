@@ -1,0 +1,40 @@
+Cordoba
+
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=1
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=2
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=3
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=4
+
+Mendoza
+
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=6
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=16
+
+Tucuman
+
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=8
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=9
+
+Misiones
+
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=7
+
+Chaco
+
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=10
+
+Santa Fe
+
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=11
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=15
+
+Santiago del Estero
+
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=12
+
+San Juan
+
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=13
+
+Salta
+https://www.hiperlibertad.com.ar/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=14
