@@ -6,7 +6,6 @@ def create_config_file() -> ConfigParser:
     """
     Create the configuration file necessary for the program to work.
     """
-
     config = ConfigParser()
 
     folder = "hiperlibertad"
@@ -25,8 +24,9 @@ def create_config_file() -> ConfigParser:
             "name_file": "product_list.csv",
             "url_web": "https://www.hiperlibertad.com.ar"
                        "/api/catalog_system/pub/products/search/api?O=OrderByTopSaleDESC&_from=0&_to=23&ft&sc=1",
-            "number_of_pages": 3,
-            "attempts": 3
+            "number_of_pages": 1,
+            "attempts": 2,
+            "proxy_list": ""  # Example proxi 45.226.185.2:8080
         }
         with(open(file=fol_conf, mode="w", encoding="utf-8")) as f:
 

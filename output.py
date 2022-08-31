@@ -7,14 +7,13 @@ def show(product_list) -> int:
     """
     It prints on the screen the data of the products obtained and returns the total quantity of the same.
     """
-
     for product in product_list:
         for data in product:
             print(f"{data}: {product[data]}")
         print()
 
     count = (len(product_list))
-    print(count)
+    print(f"Data products recorded: {count}")
 
     return count
 
@@ -23,7 +22,6 @@ def save_to_csv(product_list) -> None:
     """
     Save product data to a CSV file.
     """
-
     product_header = ["name", "categories", "url", "description", "list_price", "price", "sku", "stock"]
 
     config = conf.create_config_file()
