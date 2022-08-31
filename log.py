@@ -8,7 +8,6 @@ def get_logger() -> Logger:
     """
     Returns an object logger needed to track program operations.
     """
-
     config = conf.create_config_file()
     config.read("hiperlibertad/config.ini")
 
